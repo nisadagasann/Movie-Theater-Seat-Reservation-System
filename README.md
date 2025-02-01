@@ -1,6 +1,5 @@
 # Movie-Theater-Seat-Reservation-System
 
-##Introduction
 This project is a software application designed to digitize the process of movie theater seat reservation. The goal of this system is to prevent confusion and simplify the process of booking seats, by allowing customers to select their desired seat and choose additional items such as popcorn. The system keeps track of seat availability and provides an easy way to manage reservations and additional orders.
 
 In addition, the program will ask customers about their popcorn preferences (whether they want popcorn and the weight in grams), and the system will generate a confirmation message when popcorn is ready.
